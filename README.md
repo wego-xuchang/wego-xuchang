@@ -1,5 +1,5 @@
 
-👋 Hi，我是 wego的xuchang，后端工程师，熟悉Java/Go技术栈，热爱技术，喜欢开源，也很喜欢折腾
+👋 Hi，我是 wego的xuchang，熟悉Java/Go技术栈，热爱技术，喜欢开源，为爱发电⚡
 
 <!--
 **wego-xuchang/wego-xuchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
